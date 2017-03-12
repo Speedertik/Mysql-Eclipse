@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Administrator/Desktop/achartengine-1.1.0.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="D:/Java/httpclient-4.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Android Studio/lib/httpcore-4.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Java/httpcomponents-client-4.5.2/lib/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/SDK/tools/support/annotations.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mysql</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnViewPvs">View Pvs</string>
+    <string name="title_activity_all_pvs">AllPvsActivity</string>
+    <string name="btnViewChart">View Chart</string>
+    <string name="btnViewConfigure">View Configure</string>
+    <string name="title_activity_char_view">CharView</string>
+    <string name="title_activity_rt_charts">RtChartsActivity</string>
+    <string name="title_activity_configure">Configure</string>
+    <string name="hello">流量</string>
+
+</resources>
